@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8f3dc2bc-c095-4c20-8c17-737248b0b8ed": {
+      "ProjectGuid": "8f3dc2bc-c095-4c20-8c17-737248b0b8ed",
+      "DisplayName": "员工管理系统",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
